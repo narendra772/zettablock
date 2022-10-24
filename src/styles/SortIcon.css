@@ -1,0 +1,14 @@
+.sort-icon {
+    height: 20px;
+    width: 20px;
+    float: left;
+    padding-right: 5px;
+}
+.sort-button {
+    color: black;
+    background-color: cyan;
+    font-size: 18px;
+    float: left;
+    margin-left: 30px;
+    border-radius: 5px;
+}
